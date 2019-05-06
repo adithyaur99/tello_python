@@ -58,12 +58,8 @@ The controls are:
 ### Note
 If you are using the ```streamon``` command and the response is ```Unknown command``` means you have to update the Tello firmware. That can be done through the Tello app.
 
-## Author
-
-* **Damià Fuentes Escoté** 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/damiafuentes/TelloSDKPy/blob/master/LICENSE) file for details
+
 
